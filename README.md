@@ -1,4 +1,5 @@
 Better Optimized Reader Here:https://github.com/Chickenman67/CBZ-Viewer-Optimized/
+
 📖 Ultimate CBZ Reader v7
 The Lightweight, Private, and High-Performance Web Comic Viewer
 ## ✨ Core Features
